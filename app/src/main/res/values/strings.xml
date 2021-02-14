@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">android_login_app</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Eposta</string>
+    <string name="prompt_password">Şifre</string>
+    <string name="action_sign_in">Giriş veya Kayıt</string>
+    <string name="action_sign_in_short">Kayıt</string>
+    <string name="welcome">"Hoşgeldiniz !"</string>
+    <string name="invalid_username">Geçersiz Kullanıcıcı Adı</string>
+    <string name="invalid_password">Şifre 5 karakterden fazla olmalı</string>
+    <string name="login_failed">"Giriş başarısız"</string>
+</resources>
